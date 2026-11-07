@@ -8,7 +8,7 @@ Campus3D EnvSim Suiteは、3D都市・建築モデルを用いた熱環境の学
 
 ## ダウンロード
 
-GitHubの **Releases → v0.1.5-beta → Assets** から、`Campus3D_EnvSim_Suite_v0.1.5_AutoNTabs_BETA.zip` を入手してください。**Code → Download ZIP はインストーラではありません。**
+GitHubの **Releases → v0.1.5-beta → Assets** から、`EnvSim_Suite_v0.1.5_BETA.zip` を入手してください。**Code → Download ZIP はインストーラではありません。**
 
 ## 最短インストール（Windows）
 
