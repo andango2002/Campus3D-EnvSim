@@ -1,1 +1,1 @@
-fab7fd31745a05f188d49159b344dcf26a8462cf00cc0a8462b919ee64794cbb  Campus3D_EnvSim_Suite_v0.1.5_AutoNTabs_BETA.zip
+fab7fd31745a05f188d49159b344dcf26a8462cf00cc0a8462b919ee64794cbb  EnvSim_Suite_v0.1.5_BETA.zip
