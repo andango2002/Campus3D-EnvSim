@@ -33,7 +33,7 @@
 
 ## インストール
 
-1. `Campus3D_EnvSim_Suite_v0.1.5_AutoNTabs_BETA.zip` をダウンロードして展開する。
+1. `EnvSim_Suite_v0.1.5_BETA.zip` をダウンロードして展開する。
 2. Blenderを閉じて `Install_EnvSim_Suite.cmd` を実行、`INSTALL` と入力。
 3. Blender起動後、Nタブの自動整理を確認。
 4. Blenderを閉じて `Check_EnvSim_Suite.cmd` を実行しPASSを確認。
