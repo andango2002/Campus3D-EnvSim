@@ -1,0 +1,7 @@
+# generated user/project data
+*.blend1
+*.blend2
+reports/
+samples/
+__pycache__/
+*.pyc
