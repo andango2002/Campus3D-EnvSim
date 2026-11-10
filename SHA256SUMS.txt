@@ -1,1 +1,1 @@
-fab7fd31745a05f188d49159b344dcf26a8462cf00cc0a8462b919ee64794cbb  EnvSim_Suite_v0.1.5_BETA.zip
+8aaf32aef80f1c2dcdd74160174da513eec744d6f0977cd3ae5a75ba40bc91ad  Campus3D_EnvSim_Suite_v0.1.7_BETA.zip
